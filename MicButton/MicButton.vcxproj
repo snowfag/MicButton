@@ -170,7 +170,6 @@
   </ItemGroup>
   <ItemGroup>
     <Image Include="C:\Users\Yukikaze\Pictures\icons\MicButton.ico" />
-    <Image Include="C:\Users\Yukikaze\Pictures\icons\microphone-slash.ico" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
